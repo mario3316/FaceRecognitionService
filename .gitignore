@@ -1,6 +1,6 @@
 Door/node_modules/*
 Door/credentials/*
-제출
+제출/*
 FaceRecognitionService/.vscode/*
 FaceRecognitionService/credentials/*
 FaceRecognitionService/node_modules/*
